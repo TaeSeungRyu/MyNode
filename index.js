@@ -5,10 +5,7 @@ range(1, 100).pipe(
   filter(x => x % 2 === 1),
   map(x => x + x)
 ).subscribe(x => console.log(x));
-
-console.log(1234);
-console.log(1234);
-console.log(1234);
-
-console.log(20180723);
+var m=1234;
+var m2=5678;
+console.log( m * m2);
 
