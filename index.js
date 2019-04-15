@@ -11,4 +11,7 @@ console.log(1234);
 console.log(1234);
 
 console.log(20180723);
+console.log(20180723);
+console.log(20180723);
+console.log(20180723);
 
