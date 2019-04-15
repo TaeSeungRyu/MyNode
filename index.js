@@ -7,3 +7,5 @@ range(1, 100).pipe(
 ).subscribe(x => console.log(x));
 
 console.log(1234);
+console.log(1234);
+console.log(1234);
