@@ -9,3 +9,6 @@ range(1, 100).pipe(
 console.log(1234);
 console.log(1234);
 console.log(1234);
+
+console.log(20180723);
+
