@@ -15,3 +15,5 @@ console.log(1234);
 console.log(1234);
 console.log(1234);
 console.log('try to do other commit from reset order')
+
+console.log(1234);
